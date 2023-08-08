@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 *.zip
-
+*.png
 # Distribution / packaging
 LaMa_test_images/
 LaMa_models/
