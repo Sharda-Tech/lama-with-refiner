@@ -11,6 +11,8 @@ import os
 import sys
 import traceback
 
+sys.path.append('./')
+
 from saicinpainting.evaluation.utils import move_to_device
 from saicinpainting.evaluation.refinement import refine_predict
 os.environ['OMP_NUM_THREADS'] = '1'

@@ -5,8 +5,14 @@ __pycache__/
 
 # C extensions
 *.so
+*.zip
 
 # Distribution / packaging
+LaMa_test_images/
+big-lama/
+output/
+output2/
+outputs/
 .Python
 build/
 develop-eggs/
