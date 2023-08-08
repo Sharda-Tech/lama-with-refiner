@@ -9,6 +9,7 @@ __pycache__/
 
 # Distribution / packaging
 LaMa_test_images/
+LaMa_models/
 big-lama/
 output/
 output2/
